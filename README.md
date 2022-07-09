@@ -1,7 +1,4 @@
-# Renting_UK
-Renting information in UK
-
-# IC租房(（*）可以重点考虑)：
+# Renting In UK（*）可以重点考虑：
 - Rightmove(知乎推烂掉)：
     - ### (*) [Chelsea Manor Street, Chelsea | Martin & Co (martinco.com)](https://www.martinco.com/property/to-rent/402549?profileID=100783012710&emailAlert=1)
         - Pros: Well-rounded (2998 pcm/ Chelsea/ 3bedrooms+2bathrooms)
