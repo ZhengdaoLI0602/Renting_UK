@@ -9,7 +9,7 @@ Renting information in UK
 - Savills(朴素，价格距离好)
     - ### (*) [Savills | Cavaye Place, Chelsea, London, SW10 9PT | Property to rent](https://search.savills.com/property-detail/gblsrecel140071l)
         - Pros: Well-rounded
-        - Cons: No information for now (Having sent target "MAX 3200 pcm" to agency)
+        - Cons: No information for now (Having sent the target "MAX 3200 pcm" to agency)
 - Foxtons（知乎，B站推荐）
     - ### [3 bedroom flat to rent in Wiltshire Close, Chelsea, SW3 through Foxtons (Ref 1204983)](https://www.foxtons.co.uk/properties-to-rent/sw3/chpk0146229)
     - ### [3 bedroom flat to rent in Kings Road, Chelsea, SW10 through Foxtons (Ref 1199552)](https://www.foxtons.co.uk/properties-to-rent/sw10/chpk0218029)
