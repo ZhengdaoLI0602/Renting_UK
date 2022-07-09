@@ -20,3 +20,6 @@
     - ### [3 bedroom flat to rent in Lupus Street, Pimlico, SW1V through Foxtons (Ref 1208193)](https://www.foxtons.co.uk/properties-to-rent/sw1v/chpk1216118)
 - dexters（知乎，B站推荐）
     - Offered properties with 3 bedrooms and close to school are too expensive
+- Gradpad(out-of-campus studios)：
+    - Min 284 pcw in Griffon, low price-performance ratio. Not recommended.
+ 
