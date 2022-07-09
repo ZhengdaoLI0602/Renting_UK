@@ -10,7 +10,7 @@
         - Cons: No information for now (Having sent the target "MAX 3200 pcm" to agency)
         - Price of accommodation inspection: unknown
 - Foxtons（知乎，B站推荐）华人中介微信：maggielocke
-    - ### (*)[3 bedroom flat to rent in Wiltshire Close, Chelsea, SW3 through Foxtons (Ref 1204983)](https://www.foxtons.co.uk/properties-to-rent/sw3/chpk0146229)
+    - ### (*租掉了)[3 bedroom flat to rent in Wiltshire Close, Chelsea, SW3 through Foxtons (Ref 1204983)](https://www.foxtons.co.uk/properties-to-rent/sw3/chpk0146229)
         - Pros: Accommodation from campus near
         - Cons: May be unfurnished
         - Price of accommodation inspection: unknown
