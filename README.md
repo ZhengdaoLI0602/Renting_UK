@@ -1,7 +1,7 @@
 # Renting_UK
 Renting information in UK
 
-# IC租房：
+# IC租房(（*）可以重点考虑)：
 - Rightmove(知乎推烂掉)：
     - ### (*) [Chelsea Manor Street, Chelsea | Martin & Co (martinco.com)](https://www.martinco.com/property/to-rent/402549?profileID=100783012710&emailAlert=1)
         - Pros: Well-rounded (2998 pcm/ Chelsea/ 3bedrooms+2bathrooms)
@@ -15,7 +15,7 @@ Renting information in UK
     - ### [3 bedroom flat to rent in Kings Road, Chelsea, SW10 through Foxtons (Ref 1199552)](https://www.foxtons.co.uk/properties-to-rent/sw10/chpk0218029)
     - ### (*) [4 bedroom flat to rent in Worlds End Estate, Chelsea, SW10 through Foxtons (Ref 1202168)](https://www.foxtons.co.uk/properties-to-rent/sw10/chpk0463665)
         - Pros: Low renting fee (200 pcw or so); 4bedrooms+2bathrooms
-        - Cons: Need looking for another roomate
+        - Cons: Need to look for another roomate
     - ### (*) [3 bedroom flat to rent in Ashburnham Road, Chelsea, SW10 through Foxtons (Ref 1200120)](https://www.foxtons.co.uk/properties-to-rent/sw10/chpk0463665)](https://www.foxtons.co.uk/properties-to-rent/sw10/chpk0343531)
         - Pros: Well-equipped; 3bedrooms+2bathrooms
         - Cons: A little bit far away from campus
