@@ -13,5 +13,5 @@ IC租房：
  - 3 bedroom flat to rent in Ashburnham Road, Chelsea, SW10 through Foxtons (Ref 1200120)
  - 3 bedroom flat to rent in Abbots Manor, Pimlico, SW1V through Foxtons (Ref 1207326)
  - 3 bedroom flat to rent in Lupus Street, Pimlico, SW1V through Foxtons (Ref 1208193)
- - dexters（知乎，B站推荐）
+- dexters（知乎，B站推荐）
 
