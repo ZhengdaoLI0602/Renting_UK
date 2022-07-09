@@ -13,7 +13,7 @@
     - ### (*) [4 bedroom flat to rent in Worlds End Estate, Chelsea, SW10 through Foxtons (Ref 1202168)](https://www.foxtons.co.uk/properties-to-rent/sw10/chpk0463665)
         - Pros: Low renting fee (200 pcw or so); 4bedrooms+2bathrooms
         - Cons: Need to look for another roomate
-    - ### (*) [3 bedroom flat to rent in Ashburnham Road, Chelsea, SW10 through Foxtons (Ref 1200120)](https://www.foxtons.co.uk/properties-to-rent/sw10/chpk0463665)](https://www.foxtons.co.uk/properties-to-rent/sw10/chpk0343531)
+    - ### (*) [3 bedroom flat to rent in Ashburnham Road, Chelsea, SW10 through Foxtons (Ref 1200120)](https://www.foxtons.co.uk/properties-to-rent/sw10/chpk0343531)
         - Pros: Well-equipped; 3bedrooms+2bathrooms
         - Cons: A little bit far away from campus
     - ### [3 bedroom flat to rent in Abbots Manor, Pimlico, SW1V through Foxtons (Ref 1207326)](https://www.foxtons.co.uk/properties-to-rent/sw1v/chpk1264171)
